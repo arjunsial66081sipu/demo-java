@@ -1,4 +1,5 @@
 pkg
+target
 *.class
 .ufo/current
 .ufo/data
